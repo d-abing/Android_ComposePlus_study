@@ -20,5 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "FastCampusComposePlus"
-include(":app")
- 
+include(":chapter2")
