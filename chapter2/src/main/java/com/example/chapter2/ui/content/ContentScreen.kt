@@ -17,6 +17,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.IntOffset
 import androidx.compose.ui.unit.dp
 import com.example.chapter2.model.memos
+import com.example.chapter2.R
 
 private val MinTitleOffset = 20.dp
 private val MaxTitleOffset = 100.dp
